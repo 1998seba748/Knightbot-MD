@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('sebastian Md').config();
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',

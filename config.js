@@ -1,4 +1,4 @@
-require('sebastian Md').config();
+require('sebastian Md').config(seba Tech);
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
